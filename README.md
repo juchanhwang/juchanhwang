@@ -10,5 +10,5 @@
 
 ---
 
-- 🌱 I’m currently learning Javascript, ReactJs, Angular10, RxJS
+- 🌱 I’m currently learning JavaScript, TypeScript, ReactJs, Angular10, RxJS
 - 📫 How to reach me: juchanhwang0601@gmail.com
