@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://julog.netlify.app/" target="_blank" rel="noopener noreferrer">📝 Blog</a>
-  <a href="https://www.facebook.com/profile.php?id=100003720210475" target="_blank" rel="noopener noreferrer"> Facebook</a>
+  <a href="https://www.facebook.com/profile.php?id=100003720210475" target="_blank" rel="noopener noreferrer">🗣 Facebook</a>
   <a href="mailto: juchanhwang0601@gmail.com" target="_blank" rel="noopener noreferrer">💌 Mail</a>
 </p>
 
