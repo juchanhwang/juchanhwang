@@ -1,16 +1,14 @@
-### Hi there 👋
+<h3 align="center">
+  Hi, I'm Ju Chan 👋
+</h3>
 
-<!--
-**juchanhwang/juchanhwang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://julog.netlify.app/" target="_blank" rel="noopener noreferrer">📝 Blog</a>
+  <a href="https://www.facebook.com/profile.php?id=100003720210475" target="_blank" rel="noopener noreferrer"> Facebook</a>
+  <a href="mailto: juchanhwang0601@gmail.com" target="_blank" rel="noopener noreferrer">💌 Mail</a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Javascript, ReactJs, Angular10, RxJS
+- 📫 How to reach me: juchanhwang0601@gmail.com
