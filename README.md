@@ -13,5 +13,5 @@
 - 🌱 I’m currently learning JavaScript, TypeScript, ReactJs, Angular11, RxJS
 - 📫 How to reach me: juchanhwang0601@gmail.com
 - 🙌 This is the web service I am developing
-  - 💻 pc: https://www.mapianist.com/main
-  - 📱 mobile: https://m.mapianist.com/main
+  - 💻 pc: https://www.mapianist.com
+  - 📱 mobile: https://m.mapianist.com
