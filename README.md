@@ -10,8 +10,8 @@
 
 ---
 
-- 🌱 I’m currently learning JavaScript, TypeScript, ReactJs, Angular11, RxJS
+- 🌱 I’m currently learning JavaScript, TypeScript, ReactJs, Angular13, RxJS
 - 📫 How to reach me: juchanhwang0601@gmail.com
 - 🙌 This is the web service I am developing
-  - 💻 pc: https://www.mapianist.com
-  - 📱 mobile: https://m.mapianist.com
+  - 💻 pc: https://www.mymusicsheet.com
+  - 📱 mobile: https://m.mymusicsheet.com/main
