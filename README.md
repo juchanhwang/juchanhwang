@@ -7,6 +7,9 @@
   <a href="https://www.facebook.com/profile.php?id=100003720210475" target="_blank" rel="noopener noreferrer">🗣 Facebook</a>
   <a href="mailto: juchanhwang0601@gmail.com" target="_blank" rel="noopener noreferrer">💌 Mail</a>
 </p>
+<p align="center">
+  <a href="https://juchan-about.notion.site/47273f0999a046918ace16fe47f5b595" target="_blank" rel="noopener noreferrer">🔗 Portfolio</a>
+</p>
 
 ---
 
