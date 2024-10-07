@@ -12,7 +12,7 @@
 </p>
 ---
 
-- 🌱 I’m currently learning JavaScript, TypeScript, ReactJs, Angular13, RxJS
+- 🌱 I’m currently learning JavaScript, TypeScript, ReactJs, Next.js
 - 📫 How to reach me: juchanhwang0601@gmail.com
 - 🙌 This is the web service I am developing
   - 💻 pc: https://www.mymusicsheet.com
