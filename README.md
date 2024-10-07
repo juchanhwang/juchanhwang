@@ -8,9 +8,8 @@
   <a href="mailto: juchanhwang0601@gmail.com" target="_blank" rel="noopener noreferrer">💌 Mail</a>
 </p>
 <p align="center">
-  <a href="https://juchan-about.notion.site/47273f0999a046918ace16fe47f5b595" target="_blank" rel="noopener noreferrer">🔗 Portfolio</a>
+  <a href="https://juchan-about.notion.site/f36abb2007f243c89e3809716b050122" target="_blank" rel="noopener noreferrer">🔗 Portfolio</a>
 </p>
-
 ---
 
 - 🌱 I’m currently learning JavaScript, TypeScript, ReactJs, Angular13, RxJS
